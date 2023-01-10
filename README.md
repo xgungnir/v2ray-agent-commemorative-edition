@@ -1,3 +1,6 @@
+# Update 2022-01-10
+From the previous telegram channel of mack-a/v2ray-agent, mack-a said he just took a rest ([link](https://t.me/v2rayAgentChannel/989)) and now retrieved the original repo [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent). :thinking: :thinking: :thinking: 
+
 # R.I.P. mack-a/v2ray-agent
 - It seems that the original author of [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) has been f\*\*ked up by the Chinese Big Bro :nauseated_face: 
 - R.I.P. :smiling_face_with_tear: 
